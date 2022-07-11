@@ -2,10 +2,25 @@ body {
     background : #0f0e17
 }
 
+body{
+    width: 400PX;
+    margin:auto;
+}
+
 a {
     color:  #fffffe
 }
 
-header .container{
-        /* insère ton style ici */
-      }
+header .container img {
+    width : 100px;
+}
+
+ section {
+    color:  #fffffe
+}
+      
+h2 {
+color:  #ff8906;
+}
+
+
