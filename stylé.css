@@ -5,7 +5,8 @@ body{
     text-align: center 
 
   }
-  header .container{
+
+  header.container {
     /* insère ton style ici */
   }
   
@@ -13,20 +14,26 @@ body{
     width : 100px;
   }
   
-  nav{
-    /* insère ton style ici */
-  }
+  nav .flex-container {
+    display:flex;
+    justify-content: center
+}
   
   nav ul {
-    /* insère ton style ici */
+    padding:0;
+    margin:0;
+    list-style-type:none;
   }
   
   nav li {
-    /* insère ton style ici */
+    margin-left:2px;
+    float:left; 
   }
   
   nav li a {
-    /* insère ton style ici */
+    display:inline;
+    text-align:center;
+     color:  #fffffe;
   }
   
   section{
@@ -41,11 +48,6 @@ body{
     color:  #0f0e17;
   }
   
-  footer{
+  footer {
     /* insère ton style ici */
-  }
-
-  a {
-    color:  #fffffe;
 }
-
