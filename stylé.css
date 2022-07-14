@@ -1,0 +1,51 @@
+body{
+    background : #0f0e17;
+    width: 800px;
+    margin:auto;
+    text-align: center 
+
+  }
+  header .container{
+    /* insère ton style ici */
+  }
+  
+  header .container img{
+    width : 100px;
+  }
+  
+  nav{
+    /* insère ton style ici */
+  }
+  
+  nav ul {
+    /* insère ton style ici */
+  }
+  
+  nav li {
+    /* insère ton style ici */
+  }
+  
+  nav li a {
+    /* insère ton style ici */
+  }
+  
+  section{
+    background-color: #fffffe;
+}
+  
+  h2{
+    color:  #ff8906;
+  }
+  
+  p{
+    color:  #0f0e17;
+  }
+  
+  footer{
+    /* insère ton style ici */
+  }
+
+  a {
+    color:  #fffffe;
+}
+
